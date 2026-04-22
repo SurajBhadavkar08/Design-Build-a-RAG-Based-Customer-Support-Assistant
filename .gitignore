@@ -1,0 +1,1 @@
+venv/&#10;__pycache__/&#10;*.pyc&#10;*.pyo&#10;*.pyd&#10;env/&#10;.env&#10;*.log&#10;.DS_Store&#10;data/*.db

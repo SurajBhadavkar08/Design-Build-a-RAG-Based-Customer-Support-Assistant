@@ -1,0 +1,63 @@
+Customer Support FAQ Document for E-Commerce Store
+
+1. Shipping Policy
+We offer two shipping options:
+- Standard Shipping: 3-5 business days, $5.99 or free on orders over $50
+- Express Shipping: 1-2 business days, $12.99
+
+Shipping is available to all 50 US states. Tracking information is provided within 24 hours of shipment.
+
+2. Returns and Refunds
+Our 30-day return policy allows returns on unused items in original packaging.
+- Refunds processed within 7 business days to original payment method
+- Return shipping is customer responsibility unless defective
+- Certain items (e.g., personalized, hygiene) are non-returnable
+
+To initiate a return, log into your account and use the Returns Portal.
+
+3. Order Status and Tracking
+- Order Confirmation: Email sent immediately after purchase
+- Processing: 1-2 business days
+- Shipped: Tracking email with carrier details
+- Delivered: Confirm receipt in account dashboard
+
+Use our Track Order page with your order ID.
+
+4. Payment Methods and Issues
+Accepted payments:
+- Visa, MasterCard, American Express, Discover
+- PayPal, Apple Pay, Google Pay
+- All transactions PCI-DSS compliant
+
+If payment declined:
+- Check card details and sufficient funds
+- Try alternative payment method
+- Contact your bank for fraud holds
+
+5. Account Management
+- Create account for faster checkout and order history
+- Forgot password? Use recovery link
+- Update shipping address, payment methods in Profile
+- Download invoices from Order History
+
+6. Product Availability and Backorders
+- In-stock items ship immediately
+- Backordered items: notified when available, no charge until shipped
+- Inventory updated real-time
+
+7. Common Issues
+Q: My order hasn't arrived yet?
+A: Check tracking; contact support if >7 days past estimate.
+
+Q: Item damaged/missing?
+A: Contact support within 7 days with photos.
+
+Complex Queries (Escalate to Agent):
+- Bulk/wholesale orders (>10 items)
+- International shipping exceptions
+- Fraud/dispute claims
+- Custom product requests
+- Legal/compliance questions
+
+For all escalations, our system routes to live agent during business hours (9AM-6PM EST).
+
